@@ -19,10 +19,6 @@
     </ul>
 </div>
 
-<div id="stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plush-Jill&size_weight=1&count_weight=0&exclude_repo=ecdTasks,networkNSU,dentalService&hide=CMake,HTML,CSS,Makefile&langs_count=8&layout=compact&theme=radical" alt="Top languages" title="Top languages">
-</div>
-
 <summary><h2><b>🛠 Skills</b></h2></summary>
 <p>
 <h3>Langs</h3>
@@ -32,7 +28,13 @@
 <h3>Software</h3>
 <img src="https://skillicons.dev/icons?i=clion,vim,vscode, &perline=7" />
 
+
+
 <div id="stats">
-    <h2>📈 Git Stats</h2>
+    <h2>📈 Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plush-Jill&size_weight=1&count_weight=0&exclude_repo=ecdTasks,networkNSU,dentalService&hide=CMake,HTML,CSS,Makefile&langs_count=8&layout=compact&theme=radical" alt="Top languages" title="Top languages">
     <img src="https://github-readme-stats.vercel.app/api?username=Plush-Jill&show=prs_merged_percentage&show_icons=true&theme=radical" alt="GitHub stats" title="GitHub stats">
+
+
 </div>
+
