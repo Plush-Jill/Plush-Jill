@@ -15,7 +15,6 @@
     <h2>About Me</h2>
     <ul>
         <li>I'm a student at <a target="_blank" style="text-decoration: none;" href="https://www.nsu.ru">Novosibirsk State University</a></li>
-        <li>Want to be C++ developer</li>
     </ul>
 </div>
 
